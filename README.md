@@ -44,6 +44,8 @@ Supports ONNX and TensorRT inference
 
 Real-time camera input (via BetterCam)
 
+### check for updates for `Ultralytics` using the `.bat` file included `once a week`. 
+
 ## 🚀 How to Run:
 ```
 python main_tensorrt.py
