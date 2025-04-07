@@ -58,6 +58,10 @@ Make sure you're in the project root directory. Then, launch the GUI with:
 ```
 python gui.py
 ```
+- Use the `launcher.bat` to run the application.
+- If you get a error stating model cant be found via common.py
+- Move your .engine or .onnx model to `pt_models/` folder then run application again no need to close app.
+- Click `run app`
 
 ## 🧠 How It Works
 
