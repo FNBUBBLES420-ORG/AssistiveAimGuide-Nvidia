@@ -1,0 +1,3 @@
+# YOLO VERSION SUPPORTED
+
+- any
