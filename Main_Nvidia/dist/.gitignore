@@ -1,0 +1,41 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+
+# PyInstaller and other build output
+dist/
+build/
+*.spec
+
+# PyArmor runtime artifacts
+pyarmor_runtime_*/
+
+# Model and export folders/files
+*.onnx
+*.engine
+*.pt
+*.bin
+
+# Media and output folders
+imgs/
+*.jpg
+*.png
+*.gif
+
+# Logs
+*.log
+
+# Virtual environments
+venv/
+env/
+*.env
+
+# System-specific
+.DS_Store
+Thumbs.db
+
+# VSCode workspace settings
+.vscode/
+
+# Optional: ignore user-specific configs
+user_config.json
