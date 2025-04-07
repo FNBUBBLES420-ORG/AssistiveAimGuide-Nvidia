@@ -34,7 +34,7 @@ Navigate to: `User_Friendly/dist`
 
 1. **Click the green `Code` button (top-right) → `Download ZIP`**
 2. Extract the ZIP file anywhere
-3. Use the `install_python_3.11.9.bat` script to install Python 3.11.9 *(no admin required!)*
+3. Use the `python3.11.9.bat` script to install Python 3.11.9 *(no admin required!)*
 4. Run the GUI with:
 
 ```
