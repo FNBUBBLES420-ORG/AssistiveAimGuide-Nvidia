@@ -40,6 +40,8 @@ imgs/
 # VSCode config
 .vscode/
 
+# Ignore MD files
+*.md
 # OS-specific
 .DS_Store
 Thumbs.db
