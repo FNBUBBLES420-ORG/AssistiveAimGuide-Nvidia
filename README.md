@@ -16,6 +16,7 @@ Welcome to the **Assistive AimGuide NVIDIA Edition** – a powerful, accessible,
 
 This repository provides **two user-friendly interfaces** for different levels of user experience:
 
+      💙 Built with accessibility in mind by the FNBUBBLES420 Organization.
 ---
 
 ## 📁 User Friendly (Beginner Friendly GUI)
